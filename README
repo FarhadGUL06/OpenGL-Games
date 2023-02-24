@@ -1,0 +1,4 @@
+In cadrul fiecarui folder se afla 2 foldere:
+	- Framework -> prin care se poate porni jocul direct prin "GFXFramework.sln" din "build"
+	- Source Code -> fisierele cod / texturi / shaders pentru fiecare joc in parte
+Aceste jocuri au fost realizate in cadrul cursului de Elemente de Grafica pe Calculator

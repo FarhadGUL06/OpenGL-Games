@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\components\camera_input.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\components\scene_input.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\components\simple_scene.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\components\text_renderer.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\core\engine.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\core\gpu\frame_buffer.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\core\gpu\gpu_buffers.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\core\gpu\mesh.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\core\gpu\shader.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\core\gpu\texture2D.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\core\managers\texture_manager.cpp">
+      <Filter>src\core\managers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\core\window\input_controller.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\core\window\window_callbacks.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\core\window\window_object.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\core\world.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab1\lab1.cpp">
+      <Filter>src\lab_m1\lab1</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab2\lab2.cpp">
+      <Filter>src\lab_m1\lab2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab3\lab3.cpp">
+      <Filter>src\lab_m1\lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab3\lab3_vis2D.cpp">
+      <Filter>src\lab_m1\lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab3\object2D.cpp">
+      <Filter>src\lab_m1\lab3</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab4\lab4.cpp">
+      <Filter>src\lab_m1\lab4</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab5\lab5.cpp">
+      <Filter>src\lab_m1\lab5</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab6\lab6.cpp">
+      <Filter>src\lab_m1\lab6</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab7\lab7.cpp">
+      <Filter>src\lab_m1\lab7</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab8\lab8.cpp">
+      <Filter>src\lab_m1\lab8</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab9\lab9.cpp">
+      <Filter>src\lab_m1\lab9</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\utils\gl_utils.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\utils\text_utils.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\components\camera.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\components\camera_input.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\components\exports.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\components\scene_input.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\components\simple_scene.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\components\text_renderer.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\components\transform.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\core\engine.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\core\gpu\frame_buffer.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\core\gpu\gpu_buffers.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\core\gpu\mesh.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\core\gpu\particle_effect.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\core\gpu\shader.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\core\gpu\ssbo.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\core\gpu\texture2D.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\core\gpu\vertex_format.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\core\managers\resource_path.h">
+      <Filter>src\core\managers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\core\managers\texture_manager.h">
+      <Filter>src\core\managers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\core\window\input_controller.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\core\window\window_callbacks.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\core\window\window_object.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\core\world.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab1\lab1.h">
+      <Filter>src\lab_m1\lab1</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab2\lab2.h">
+      <Filter>src\lab_m1\lab2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab3\lab3.h">
+      <Filter>src\lab_m1\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab3\lab3_vis2D.h">
+      <Filter>src\lab_m1\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab3\object2D.h">
+      <Filter>src\lab_m1\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab3\transform2D.h">
+      <Filter>src\lab_m1\lab3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab4\lab4.h">
+      <Filter>src\lab_m1\lab4</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab4\transform3D.h">
+      <Filter>src\lab_m1\lab4</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab5\lab5.h">
+      <Filter>src\lab_m1\lab5</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab5\lab_camera.h">
+      <Filter>src\lab_m1\lab5</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab6\lab6.h">
+      <Filter>src\lab_m1\lab6</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab6\shaders\FragmentShader.glsl">
+      <Filter>src\lab_m1\lab6\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab6\shaders\VertexShader.glsl">
+      <Filter>src\lab_m1\lab6\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab7\lab7.h">
+      <Filter>src\lab_m1\lab7</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab7\shaders\FragmentShader.glsl">
+      <Filter>src\lab_m1\lab7\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab7\shaders\VertexShader.glsl">
+      <Filter>src\lab_m1\lab7\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab8\lab8.h">
+      <Filter>src\lab_m1\lab8</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab8\shaders\FragmentShader.glsl">
+      <Filter>src\lab_m1\lab8\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab8\shaders\VertexShader.glsl">
+      <Filter>src\lab_m1\lab8\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab9\lab9.h">
+      <Filter>src\lab_m1\lab9</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab9\shaders\FragmentShader.glsl">
+      <Filter>src\lab_m1\lab9\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab9\shaders\VertexShader.glsl">
+      <Filter>src\lab_m1\lab9\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\lab_m1\lab_list.h">
+      <Filter>src\lab_m1</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\utils\gl_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\utils\glm_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\utils\math_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\utils\memory_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\utils\text_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\src\utils\window_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Farhad\OneDrive - Universitatea Politehnica Bucuresti\Desktop\SEMESTRUL 1\EGC\Laborator 1\gfx-framework-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{1FE0AE77-18E3-3800-BD74-4CF207A0267E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\components">
+      <UniqueIdentifier>{AF5F8936-8451-312F-A426-1B86B9E364FB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core">
+      <UniqueIdentifier>{81B59437-1257-3FE4-9F8E-86DAD2137A39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\gpu">
+      <UniqueIdentifier>{A4F0CFB5-1A99-3F1C-847B-4C2A57872BB1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\managers">
+      <UniqueIdentifier>{79AF2712-99D2-3DCF-8F68-3EF500BD27F8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\window">
+      <UniqueIdentifier>{B8DE769B-6901-3C0B-81A0-CFEA2BE1C8AF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1">
+      <UniqueIdentifier>{D1181413-9114-3401-91BA-98F1ACEF5844}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab1">
+      <UniqueIdentifier>{095B1033-6127-39D2-A159-E8DD466112E1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab2">
+      <UniqueIdentifier>{AFA6AE37-6E6C-3B67-9844-48B45A1DED79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab3">
+      <UniqueIdentifier>{D15FDE7F-72AD-3A68-9EF7-6DDE9888538A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab4">
+      <UniqueIdentifier>{C23E0EF0-399F-3B5B-B9E9-90C4C473F276}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab5">
+      <UniqueIdentifier>{49CE6CB1-25C0-34C6-9428-52B92EFFD1D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab6">
+      <UniqueIdentifier>{18300CF7-08B8-3710-844B-A1412D55CF94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab6\shaders">
+      <UniqueIdentifier>{4FA00318-9988-3775-9D15-01507B75A99E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab7">
+      <UniqueIdentifier>{CCDED6A3-251F-3E91-B6D3-E0DB06097C3A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab7\shaders">
+      <UniqueIdentifier>{13A208AC-A01A-3200-90A0-B9B6C4B5779A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab8">
+      <UniqueIdentifier>{CAD94915-96FC-306B-9518-B6FC990C00AC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab8\shaders">
+      <UniqueIdentifier>{178E53F7-D0E1-3FE5-AC21-76DB978937BF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab9">
+      <UniqueIdentifier>{FAE2BDFD-DA5C-319F-8901-7CACEEE43387}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\lab9\shaders">
+      <UniqueIdentifier>{7E881989-A19F-3A49-B7EE-8AF3D75BF54C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\utils">
+      <UniqueIdentifier>{9CCCD855-3203-3E0C-A925-627B73D01EFF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
